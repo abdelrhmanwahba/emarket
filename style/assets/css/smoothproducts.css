@@ -173,3 +173,10 @@ html, body {
   }
 }
 
+.field-validation-error, .validation-summary-errors {
+    color: red
+}
+
+.input-validation-error {
+    border: 2px solid red;
+}
